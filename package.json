@@ -1,0 +1,13 @@
+{
+  "name": "stackspluspong",
+  "version": "1.0.0",
+  "description": "Connecting Pong to a table lamp",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "firmata": "^0.8.4",
+    "socket.io": "^1.4.5"
+  },
+  "author": "David van Gelder de Neufville",
+  "license": "MIT"
+}

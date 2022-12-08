@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+}
+body {
+  background: #000;
+  text-align: center;
+}
+h2 {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+  color: #ddd;
+}
+#computerScore {
+  color: #2c5ac2;
+}
+#playerScore {
+  color: #eee62c;
+}
+svg {
+  background: #222;
+}
+rect,
+circle {
+  fill: #fff;
+}
